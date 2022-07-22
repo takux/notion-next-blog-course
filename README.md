@@ -7,3 +7,13 @@
 
 
 定期的にクーポンを発行しているコース一覧ページは[こちら](https://www.takux.one/)。
+
+
+## コース制作過程やエラーについて
+
+[Notion+Next.jsコース制作の裏話①前編](https://www.rabbitriver.page/ja/notion-next-blog-insidestory1)
+
+[Notion+Next.jsコース制作の裏話②後編（技術的な話が多め）](https://www.rabbitriver.page/ja/notion-next-blog-insidestory2)
+
+[Next.jsでサーバー起動できないエラー | パスに\udが含まれるケース](https://www.rabbitriver.page/ja/include-ud-error)
+
