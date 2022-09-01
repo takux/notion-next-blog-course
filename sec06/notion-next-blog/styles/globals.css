@@ -62,3 +62,12 @@ main {
 .nbr-blocks > div {
   @apply mb-4;
 }
+.nbr-block-table_of_contents {
+  @apply p-5 list-disc bg-gray-100 rounded;
+}
+.nbr-block-table_of_contents > div {
+  @apply my-1;
+}
+.nbr-block-table_of_contents a {
+  @apply underline text-gray-600;
+}
