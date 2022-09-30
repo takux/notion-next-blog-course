@@ -6,7 +6,7 @@
 <!-- コースURLは[こちら](https://www.udemy.com/course/notion-next-blog/?referralCode=A392C2F8686D2BF90F61)。-->
 
 
-定期的にクーポンを発行しているコース一覧ページは[こちら](https://www.takux.one/)。
+定期的にクーポンを発行している[コース一覧ページはこちら](https://www.takux.one)。
 
 
 ## コース制作過程やエラー・有益情報などに
