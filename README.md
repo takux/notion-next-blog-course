@@ -20,3 +20,7 @@
 * [Notionのアップロード画像の非表示をSSRで解決する方法](https://www.rabbitriver.page/ja/notion-uploaded-image-ssr)
 
 * [notion-block-renderer v2.3.x ~ table_of_contents 機能追加](https://www.rabbitriver.page/ja/tableofcontents-block)
+
+* [Notionインテグレーション設定箇所が変更](https://www.rabbitriver.page/ja/notion-connect)
+
+
