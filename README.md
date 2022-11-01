@@ -9,7 +9,9 @@
 定期的にクーポンを発行している[コース一覧ページはこちら](https://www.takux.one)。
 
 
-## コース制作過程やエラー・有益情報などに
+## Reference Links
+
+コースを進めるのに役立つ参考リンクなどを下記に掲載しておきます。
 
 * [Notion+Next.jsコース制作の裏話①前編](https://www.rabbitriver.page/ja/notion-next-blog-insidestory1)
 
@@ -24,3 +26,7 @@
 * [Notionインテグレーション設定箇所が変更](https://www.rabbitriver.page/ja/notion-connect)
 
 
+## About me
+
+- [クーポンを発行しているコース一覧ページ（HP）](https://www.takux.one/)。
+- [Twitter（@takuxone）](https://twitter.com/takuxone)
