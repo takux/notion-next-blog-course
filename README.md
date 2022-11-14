@@ -29,4 +29,4 @@
 ## About me
 
 - [クーポンを発行しているコース一覧ページ（HP）](https://www.takux.one/)。
-- [Twitter（@takuxone）](https://twitter.com/takuxone)
+- [Twitter（@takumafujimoto）](https://twitter.com/takumafujimoto)
